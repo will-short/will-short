@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello!  I'm William Short.  <a href="https://www.linkedin.com/in/will-short/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width: 30px;"/></a> <a href="https://angel.co/u/william-short-1"><img src="https://user-images.githubusercontent.com/16979047/148812503-90b5a0c1-5238-46e2-8a35-774d148ff217.png" style="width: 30px;"/></a> <a href="https://will-short.github.io/"><img src="https://user-images.githubusercontent.com/16979047/148813032-5aea5c02-7118-4dbf-b1fe-33e88e555a14.png" style="width: 80px;"/></a>
+
+
+
+I am a passionate software developer with over 10 years of experience working with robots. Over the past year I've been working to transfer my passion of programming into a becoming full stack software developer. I enjoy the entire process of building apps from designing and building a road map of were I want to go to being able to hit those goals and have a product I'm proud of.
 
 <!--
 **will-short/will-short** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
