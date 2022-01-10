@@ -1,4 +1,4 @@
-# Hello!  I'm William Short.  <a href="https://www.linkedin.com/in/will-short/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width: 30px;"/></a> <a href="https://angel.co/u/william-short-1"><img src="https://user-images.githubusercontent.com/16979047/148812503-90b5a0c1-5238-46e2-8a35-774d148ff217.png" style="width: 30px;"/></a> <a href="https://will-short.github.io/"><img src="https://user-images.githubusercontent.com/16979047/148813032-5aea5c02-7118-4dbf-b1fe-33e88e555a14.png" style="width: 80px;"/></a>
+# Hello!  I'm William Short.  &nbsp;<a href="https://www.linkedin.com/in/will-short/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="height: 30px;"/></a> &nbsp; <a href="https://angel.co/u/william-short-1"><img src="https://user-images.githubusercontent.com/16979047/148812503-90b5a0c1-5238-46e2-8a35-774d148ff217.png" style="height: 30px;"/></a> &nbsp; <a href="https://will-short.github.io/"><img src="https://user-images.githubusercontent.com/16979047/148813032-5aea5c02-7118-4dbf-b1fe-33e88e555a14.png" style="height: 30px;"/></a>
 
 
 
