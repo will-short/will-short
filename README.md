@@ -1,20 +1,13 @@
-# Hello!  I'm William Short.  &nbsp;<a href="https://www.linkedin.com/in/will-short/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="height: 30px;"/></a> &nbsp; <a href="https://angel.co/u/william-short-1"><img src="https://user-images.githubusercontent.com/16979047/148812503-90b5a0c1-5238-46e2-8a35-774d148ff217.png" style="height: 30px;"/></a> &nbsp; <a href="https://will-short.github.io/"><img src="https://user-images.githubusercontent.com/16979047/148813032-5aea5c02-7118-4dbf-b1fe-33e88e555a14.png" style="height: 30px;"/></a>
+# Hi, I'm William Short
 
+I'm a full-stack software engineer with a background in robotics. My focus is web development and developer tooling, using React, TypeScript, Node.js, GraphQL, and PostgreSQL.
 
+## Selected personal projects
 
-I am a passionate software developer with over 10 years of experience working with robots. Over the past year I've been working to transfer my passion of programming into a becoming full stack software developer. I enjoy the entire process of building apps from designing and building a road map of were I want to go to being able to hit those goals and have a product I'm proud of.
+- [Indie-Go](https://github.com/will-short/Indie-Go): An indie-game catalog and storefront project with search, listings, reviews, and a shopping cart. Built with React, Redux, Flask, and PostgreSQL.
+- [Harmony](https://github.com/will-short/Harmony): A collaborative real-time chat project with servers, channels, and direct messages. Built with React, Redux, Flask, PostgreSQL, and WebSockets.
+- [Barista](https://github.com/will-short/Barista): A coffee check-in app with drink posts, comments, and local coffee-shop discovery. Built with React, Redux, Express, and PostgreSQL.
 
-<!--
-**will-short/will-short** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+These earlier personal projects include Python/Flask work alongside JavaScript. Their repositories contain source code, screenshots, and architecture notes.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://will-short.github.io/)
